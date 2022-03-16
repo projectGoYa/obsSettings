@@ -39,7 +39,7 @@ body {
 	animation-duration: 5000ms;
 	animation-fill-mode: forwards;
 	filter: brightness(100%);
-	filter: drop-shadow(0 0 5px rgba(255, 102, 255, 1));
+	filter: drop-shadow(0 0 5px rgba(60, 179, 113, 1));
 }
 
 .voice-container .voice-states .voice-state .user {
@@ -57,61 +57,61 @@ body {
 		bottom: 0px;
 	}
 	5% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	10% {
 		bottom: 0px;
 	}
 	15% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	20% {
 		bottom: 0px;
 	}
 	25% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	30% {
 		bottom: 0px;
 	}
 	35% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	40% {
 		bottom: 0px;
 	}
 	45% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	50% {
 		bottom: 0px;
 	}
 	55% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	60% {
 		bottom: 0px;
 	}
 	65% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	70% {
 		bottom: 0px;
 	}
 	75% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	80% {
 		bottom: 0px;
 	}
 	85% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	90% {
 		bottom: 0px;
 	}
 	95% {
-		bottom: 10px;
+		bottom: 9px;
 	}
 	100% {
 		bottom: 0px;
